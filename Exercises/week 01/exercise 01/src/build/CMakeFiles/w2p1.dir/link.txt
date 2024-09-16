@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/w2p1.dir/FoodOrder.cpp.o CMakeFiles/w2p1.dir/tester_1.cpp.o -o ../w2p1 
