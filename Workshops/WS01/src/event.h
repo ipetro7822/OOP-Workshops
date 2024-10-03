@@ -1,18 +1,29 @@
 #ifndef SENECA_EVENT_H
 #define SENECA_EVENT_H
+
+#include <chrono>
+#include <string>
 #include <iostream>
-#include "timeMonitor.h"
-namespace seneca
-{
-    class Event
-    {
-        std::string m_event_name;
-        std::chrono::nanoseconds nano;
+#include <iomanip>
+#include "settings.h"
+
+namespace seneca {
+
+    class Event {
+        std::string m_name;
+        std::chrono::nanoseconds m_duration;
 
     public:
-        Event();
-        Event(const char* name, const std::chrono::nanoseconds& duration)l
-        friend std::ostream& operator<<(std::ostream, const Event& e);
+        Event() = default;
+        Event(const char* name, const std::chrono::nanoseconds& duration);
+
+        friend std::ostream& operator<<(std::ostream& os, const Event& event);
+
+    private:
+        std::string getFormattedDuration() const;
+        static int getDurationFieldSize();
     };
-}
+
+} // namespace seneca
+
 #endif // SENECA_EVENT_H

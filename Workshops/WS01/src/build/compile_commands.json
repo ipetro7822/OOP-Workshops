@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/w2p1.dir/dictionary.cpp.o -c /home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/dictionary.cpp",
+  "file": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/dictionary.cpp"
+},
+{
+  "directory": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/w2p1.dir/event.cpp.o -c /home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/event.cpp",
+  "file": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/event.cpp"
+},
+{
+  "directory": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/w2p1.dir/logger.cpp.o -c /home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/logger.cpp",
+  "file": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/logger.cpp"
+},
+{
+  "directory": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/w2p1.dir/setting.cpp.o -c /home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/setting.cpp",
+  "file": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/setting.cpp"
+},
+{
+  "directory": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/w2p1.dir/tester_1.cpp.o -c /home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/tester_1.cpp",
+  "file": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/tester_1.cpp"
+},
+{
+  "directory": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/w2p1.dir/timeMonitor.cpp.o -c /home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/timeMonitor.cpp",
+  "file": "/home/ipetro/seneca/semester3/oop/OOP-Workshops/Workshops/WS01/src/timeMonitor.cpp"
+}
+]

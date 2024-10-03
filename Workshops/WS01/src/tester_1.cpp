@@ -30,6 +30,7 @@ int cout = 0; // won't compile if headers don't follow convention regarding name
 
 int main(int argc, char** argv)
 {
+
 	std::cout << "Command Line:\n";
 	std::cout << "------------------------------------------------------\n";
 	for (int i = 0; i < argc; ++i)

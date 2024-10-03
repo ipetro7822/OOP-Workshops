@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/w2p1.dir/dictionary.cpp.o CMakeFiles/w2p1.dir/event.cpp.o CMakeFiles/w2p1.dir/logger.cpp.o CMakeFiles/w2p1.dir/setting.cpp.o CMakeFiles/w2p1.dir/tester_1.cpp.o CMakeFiles/w2p1.dir/timeMonitor.cpp.o -o ../w2p1 
